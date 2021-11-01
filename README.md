@@ -6,10 +6,10 @@ A Simple Image to Ascii converter in Rust
 
 
 ## Brief 📖
-I my way to learn Rust i decided to make a converter.
+In my way to learn Rust i decided to make this converter.
 
 ## Challenges 🐢
-- Still learning Rust
+- new to Rust
 
 ## Goals 🏆
 [ x ] Convert Image to Ascii Art<br>
