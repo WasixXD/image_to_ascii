@@ -1,5 +1,8 @@
 # Image to Ascii
+
+<img src="https://github.com/WasixXD/image_to_ascii/blob/main/homer.jpg">
 A Simple Image to Ascii converter in Rust
+<img src="https://github.com/WasixXD/image_to_ascii/blob/main/homerascii.png">
 
 
 ## Brief 📖
